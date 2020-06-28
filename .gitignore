@@ -118,3 +118,4 @@ metastore_db
 renegade_model_env/
 notes/
 dataset/
+dataset/*
