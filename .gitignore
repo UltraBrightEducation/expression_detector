@@ -121,3 +121,4 @@ dataset/
 dataset/*
 artifacts/
 artifacts/*
+checkpoints/
